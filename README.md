@@ -35,14 +35,12 @@
 
 ## Study
 
-### Online Courses - Free Certificate
+### Free Online Courses and Websites
 
 - [freeCodeCamp](https://www.freecodecamp.org)
 - [Kaggle](https://www.kaggle.com)
 - [SoloLearn](https://www.sololearn.com)
-
-### Websites
-
+- [The Odin Project](https://www.theodinproject.com)
 - [W3Schools](https://www.w3schools.com)
 
 ## YouTube
@@ -61,6 +59,20 @@
 | Type | Channel | Details |
 | ----- | ----- | ----- |
 | Playlist | The Net Ninja | [Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) |
+
+### CSS
+
+| Type | Channel | Details |
+| ----- | ----- | ----- |
+| Video | Traversy Media | [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI) |
+| Playlist | The Net Ninja | [HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) |
+
+### HTML
+
+| Type | Channel | Details |
+| ----- | ----- | ----- |
+| Video | Programming with Mosh | [HTML Tutorial for Beginners: HTML Crash Course [2021]](https://youtu.be/qz0aGYrrlhU) |
+| Playlist | The Net Ninja | [HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) |
 
 ### JavaScript
 
