@@ -47,9 +47,8 @@
 
 ### Recommended Channels
 
-- [Dev Ed](https://www.youtube.com/deved)
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [freeCodeCamp.org](https://www.youtube.com/freecodecamp)
-- [Kevin Powell](https://www.youtube.com/kepowob)
 - [Programming with Mosh](https://www.youtube.com/programmingwithmosh)
 - [The Net Ninja](https://www.youtube.com/thenetninja)
 - [Traversy Media](https://www.youtube.com/traversymedia)
@@ -66,6 +65,13 @@
 | ----- | ----- | ----- |
 | Video | Traversy Media | [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI) |
 | Playlist | The Net Ninja | [HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) |
+
+### Firebase
+
+| Type | Channel | Details |
+| ----- | ----- | ----- |
+| Video | Firebase | [Getting started with Firebase for the web – Firebase Fundamentals](https://youtu.be/rQvOAnNvcNQ) |
+| Video | Fireship | [Firebase - Ultimate Beginner's Guide](https://youtu.be/9kRgVxULbag) |
 
 ### HTML
 
