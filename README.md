@@ -5,7 +5,9 @@
 ### University Email Address
 
 - [GitHub Student Developer Pack](https://education.github.com/pack)
+- [Figma for Education](https://www.figma.com/education)
 - [Free Licensed Microsoft Office 365](https://www.microsoft.com/en-ph/education/products/office?ms.officeurl=student)
+- [Free Licensed Autodesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)
 
 ### Documentations
 
@@ -47,11 +49,8 @@
 
 ### Recommended Channels
 
-- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-- [freeCodeCamp.org](https://www.youtube.com/freecodecamp)
-- [Programming with Mosh](https://www.youtube.com/programmingwithmosh)
+- [Jesse Showalter](https://www.youtube.com/jesseshowalter)
 - [The Net Ninja](https://www.youtube.com/thenetninja)
-- [Traversy Media](https://www.youtube.com/traversymedia)
 
 ### Bootstrap
 
@@ -65,6 +64,12 @@
 | ----- | ----- | ----- |
 | Video | Traversy Media | [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI) |
 | Playlist | The Net Ninja | [HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) |
+
+### Figna
+
+| Type | Channel | Details |
+| ----- | ----- | ----- |
+| Video | Jesse Showalter | [Intro to Figma - Beginners guide to Figma Basics](https://youtu.be/jk1T0CdLxwU) |
 
 ### Firebase
 
