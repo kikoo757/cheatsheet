@@ -18,9 +18,12 @@
 ### Free Hosting
 
 - [Cloudflare Pages](https://pages.cloudflare.com)
+- [Firebase](https://firebase.google.com)
 - [GitHub Pages](https://pages.github.com)
 - [Heroku](https://www.heroku.com)
 - [Netlify](https://www.netlify.com)
+- [Railway](https://railway.app)
+- [Surge](https://surge.sh)
 - [Vercel](https://vercel.com)
 
 ### My Visual Studio Code Extensions
