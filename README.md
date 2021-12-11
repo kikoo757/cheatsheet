@@ -15,7 +15,11 @@
 - [Bootstrap](https://getbootstrap.com/docs)
 - [Tailwind CSS](https://tailwindcss.com/docs)
 
-### Free Hosting
+### Anything Free
+
+Note: You can have your free email domain and hosting forever in [Zoho](https://www.zoho.com/mail) if you have already have an existing domain.
+
+#### Hosting
 
 - [Cloudflare Pages](https://pages.cloudflare.com)
 - [Firebase](https://firebase.google.com)
@@ -25,6 +29,14 @@
 - [Railway](https://railway.app)
 - [Surge](https://surge.sh)
 - [Vercel](https://vercel.com)
+
+#### Domain
+
+Free for one year
+
+- [.tech Domains](https://get.tech/github-student-developer-pack)
+- [Name](https://www.name.com/partner/github-students)
+- [Namecheap](https://nc.me)
 
 ### My Visual Studio Code Extensions
 
@@ -68,7 +80,7 @@
 | Video | Traversy Media | [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI) |
 | Playlist | The Net Ninja | [HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) |
 
-### Figna
+### Figma
 
 | Type | Channel | Details |
 | ----- | ----- | ----- |
@@ -120,3 +132,7 @@
 | Type | Channel | Details |
 | ----- | ----- | ----- |
 | Playlist | The Net Ninja | [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) |
+
+<hr>
+
+Did you find this as helpful? Don't forget to **Star** this repository. Thank you!
