@@ -38,11 +38,12 @@ Free for one year
 - [Name](https://www.name.com/partner/github-students)
 - [Namecheap](https://nc.me)
 
-### My Visual Studio Code Extensions
+### Visual Studio Code Extensions
 
 | Extension Name | Creator  |
 | ----- | ----- |
 | Discord Presence | Crawl |
+| ES7 React/Redux/GraphQL/React-Native snippets | dsznajder |
 | Live Sass Compiler | Ritwick Dey |
 | Live Sever | Ritwick Dey |
 | Markdown All in One | Yu Zhang |
@@ -62,10 +63,11 @@ Free for one year
 
 ## YouTube
 
-### Recommended Channels
+### Channels
 
-- [Jesse Showalter](https://www.youtube.com/jesseshowalter)
-- [The Net Ninja](https://www.youtube.com/thenetninja)
+- [Jesse Showalter](https://www.youtube.com/JesseShowalter)
+- [The Net Ninja](https://www.youtube.com/TheNetNinja)
+- [Traversy Media](https://www.youtube.com/TraversyMedia)
 
 ### Bootstrap
 
@@ -119,6 +121,12 @@ Free for one year
 | Type | Channel | Details |
 | ----- | ----- | ----- |
 | Playlist | The Net Ninja | [PHP Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) |
+
+### React
+
+| Type | Channel | Details |
+| ----- | ----- | ----- |
+| Video | Web Dev Simplified | [Learn React In 30 Minutes](https://youtu.be/hQAHSlTtcmY) |
 
 ### Sass
 
