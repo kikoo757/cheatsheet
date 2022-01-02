@@ -1,4 +1,4 @@
-# Stuent Resouorces
+# Student Resources
 
 ## Resources
 
