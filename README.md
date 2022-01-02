@@ -1,4 +1,4 @@
-# Cheatsheet
+# Stuent Resouorces
 
 ## Resources
 
